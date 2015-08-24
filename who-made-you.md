@@ -9,3 +9,7 @@
 * [Does God know all things?](d/does-god-know-all-things.txt)
 * [Where do you learn how to love and obey God?](w/where-do-you-learn.txt)
 
+
+Words from the [Westminster Shorter Catechism](https://en.wikipedia.org/wiki/Westminster_Shorter_Catechism)  
+Adapted with music by Diana Beach Batarseh  
+http://askmewhooo.com
