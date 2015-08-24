@@ -15,7 +15,7 @@
 * [In the covenant of life, what did God require Adam to do?](i/in-the-covenant-of-life.txt)
 * What is sin?
 * How did Adam and Eve change when they sinned?
-* What effect did the sin of Adam have on you and all people?
+* [What effect did the sin of Adam have on you and all people?](w/what-effect.txt)
 * Can anyone go to heaven with this sinful nature?
 
 Words from the [Westminster Shorter Catechism](https://en.wikipedia.org/wiki/Westminster_Shorter_Catechism)  
