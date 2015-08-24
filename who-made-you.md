@@ -7,4 +7,5 @@
 * [What is God?](w/what-is-god.txt)
 * [Where is God?](w/where-is-god.txt)
 * [Does God know all things?](d/does-god-know-all-things.txt)
+* [Where do you learn how to love and obey God?](w/where-do-you-learn.txt)
 
