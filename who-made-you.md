@@ -16,7 +16,7 @@
 * What is sin?
 * How did Adam and Eve change when they sinned?
 * [What effect did the sin of Adam have on you and all people?](w/what-effect.txt)
-* Can anyone go to heaven with this sinful nature?
+* [Can anyone go to heaven with this sinful nature?](c/can-anyone-go-to-heaven.txt)
 
 Words from the [Westminster Shorter Catechism](https://en.wikipedia.org/wiki/Westminster_Shorter_Catechism)  
 Music by [Diana Beach Batarseh](http://askmewhooo.com)  
