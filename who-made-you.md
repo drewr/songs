@@ -10,7 +10,7 @@
 * [Where do you learn how to love and obey God?](w/where-do-you-learn.txt)
 * [Who were our first parents?](w/who-were-our-first-parents.txt)
 * [What else did God give Adam and Eve?](w/what-else-did-god-give.txt)
-* [In what condition did God make Adam and Eve?]()
+* [In what condition did God make Adam and Eve?](i/in-what-condition.txt)
 * [What is a covenant?]()
 * [In the covenant of life, what did God require Adam to do?]()
 * [What is sin?]()
