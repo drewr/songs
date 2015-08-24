@@ -6,3 +6,5 @@
 * [In how many persons does this one God exist?](i/in-how-many-persons.txt)
 * [What is God?](w/what-is-god.txt)
 * [Where is God?](w/where-is-god.txt)
+* [Does God know all things?](d/does-god-know-all-things.txt)
+
