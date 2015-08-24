@@ -8,7 +8,15 @@
 * [Where is God?](w/where-is-god.txt)
 * [Does God know all things?](d/does-god-know-all-things.txt)
 * [Where do you learn how to love and obey God?](w/where-do-you-learn.txt)
-
+* [Who were our first parents?]()
+* [What else did God give Adam and Eve?]()
+* [In what condition did God make Adam and Eve?]()
+* [What is a covenant?]()
+* [In the covenant of life, what did God require Adam to do?]()
+* [What is sin?]()
+* [How did Adam and Eve change when they sinned?]()
+* [What effect did the sin of Adam have on you and all people?]()
+* [Can anyone go to heaven with this sinful nature?]()
 
 Words from the [Westminster Shorter Catechism](https://en.wikipedia.org/wiki/Westminster_Shorter_Catechism)  
 Music by Diana Beach Batarseh  
