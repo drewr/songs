@@ -11,5 +11,5 @@
 
 
 Words from the [Westminster Shorter Catechism](https://en.wikipedia.org/wiki/Westminster_Shorter_Catechism)  
-Adapted with music by Diana Beach Batarseh  
+Music by Diana Beach Batarseh  
 http://askmewhooo.com
