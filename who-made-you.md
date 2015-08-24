@@ -8,7 +8,7 @@
 * [Where is God?](w/where-is-god.txt)
 * [Does God know all things?](d/does-god-know-all-things.txt)
 * [Where do you learn how to love and obey God?](w/where-do-you-learn.txt)
-* [Who were our first parents?]()
+* [Who were our first parents?](w/who-were-our-first-parents.txt)
 * [What else did God give Adam and Eve?]()
 * [In what condition did God make Adam and Eve?]()
 * [What is a covenant?]()
