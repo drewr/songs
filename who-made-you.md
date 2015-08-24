@@ -11,7 +11,7 @@
 * [Who were our first parents?](w/who-were-our-first-parents.txt)
 * [What else did God give Adam and Eve?](w/what-else-did-god-give.txt)
 * [In what condition did God make Adam and Eve?](i/in-what-condition.txt)
-* [What is a covenant?]()
+* [What covenant did God make with Adam?](w/what-covenant.txt)
 * [In the covenant of life, what did God require Adam to do?]()
 * [What is sin?]()
 * [How did Adam and Eve change when they sinned?]()
