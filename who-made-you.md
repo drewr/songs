@@ -5,3 +5,4 @@
 * [Is there more than one true God?](i/is-there-more-than-one-true-god.txt)
 * [In how many persons does this one God exist?](i/in-how-many-persons.txt)
 * [What is God?](w/what-is-god.txt)
+* [Where is God?](w/where-is-god.txt)
