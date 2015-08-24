@@ -19,5 +19,5 @@
 * [Can anyone go to heaven with this sinful nature?]()
 
 Words from the [Westminster Shorter Catechism](https://en.wikipedia.org/wiki/Westminster_Shorter_Catechism)  
-Music by Diana Beach Batarseh  
-http://askmewhooo.com
+Music by [Diana Beach Batarseh](http://askmewhooo.com)  
+Please visit her site and purchase the accompanying curriculum! These are custom charts for local use at [Trinity Church](http://www.trinitynashville.org).
