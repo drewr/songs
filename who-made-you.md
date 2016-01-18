@@ -13,7 +13,7 @@
 * [In what condition did God make Adam and Eve?](i/in-what-condition.txt)
 * [What covenant did God make with Adam?](w/what-covenant.txt)
 * [In the covenant of life, what did God require Adam to do?](i/in-the-covenant-of-life.txt)
-* What is sin? (29-32)
+* [What is sin?](w/what-is-sin.txt)
 * How did Adam and Eve change when they sinned?
 * Did Adam act for himself alone in the covenant of life?
 * [What effect did the sin of Adam have on you and all people?](w/what-effect.txt)
