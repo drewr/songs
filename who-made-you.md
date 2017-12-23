@@ -14,7 +14,7 @@
 * [What covenant did God make with Adam?](w/what-covenant.txt)
 * [In the covenant of life, what did God require Adam to do?](i/in-the-covenant-of-life.txt)
 * [What is sin?](w/what-is-sin.txt)
-* How did Adam and Eve change when they sinned?
+* [How did Adam and Eve change when they sinned?](h/how-did-adam-and-eve-change.txt)
 * Did Adam act for himself alone in the covenant of life?
 * [What effect did the sin of Adam have on you and all people?](w/what-effect.txt)
 * [Can anyone go to heaven with this sinful nature?](c/can-anyone-go-to-heaven.txt)
