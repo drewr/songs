@@ -6,7 +6,7 @@ Hark! the herald angels sing,
 "Glory to the new born King;
 1                   6-
 Peace on earth, and mercy mild;
-5               5    7     5
+5               5    2     5
 God and sinners re - con - ciled."
 1              4       5
 Joyful, all ye nations rise,
@@ -28,7 +28,7 @@ Christ, by highest heaven adored,
 Christ the ever - lasting Lord;
 1              6-
 Late in time behold him come,
-5              5  7    5
+5              5  2    5
 Offspring of a virgins womb.
 1                   4       5
 Veiled in flesh the Godhead see,
@@ -40,7 +40,7 @@ Pleased as man with men to dwell,
 Jesus, our Im - man - u - el.
 4            1   2-   6M   2-
 Hark! the herald an - gels sing,
- 5     1      4   5    1
+ 5     1      1   5    1
 "Glory to the new born King"
 
 
@@ -50,7 +50,7 @@ Hail the heaven-born Prince of Peace!
 Hail the son of Righteousness!
 1                 6-
 Light and life to all He brings,
-5                  5  7   5
+5                  5  2   5
 Ris’n with healing in His wings.
 1                4     5
 Mild He lays His glory by,
@@ -62,7 +62,7 @@ Born to raise the sons of  earth,
 born to give them se - cond birth.
 4            1   2-   6M   2-
 Hark! the herald an - gels sing,
- 5     1      4   5    1
+ 5     1      1   5    1
 "Glory to the new born King"
 
 
