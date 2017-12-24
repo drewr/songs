@@ -2,7 +2,7 @@ HARK THE HERALD ANGELS SING (Eb, c3)
 
 1
 Hark! the herald angels sing,
- 4      5        1
+              4   5    1
 "Glory to the new born King;
 1                   6-
 Peace on earth, and mercy mild;
