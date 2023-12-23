@@ -7,5 +7,6 @@
 * [Joy To The World](j/joy-to-the-world.txt)
 * [O Come All Ye Faithful](o/o-come-all-ye-faithful.txt)
 * [O Holy Night](o/o-holy-night.txt)
+* [O Come O Come Emmanuel](o/o-come-o-come-emmanuel.txt)
 * [Still Still Still](s/still-still-still.txt)
-* 
+
